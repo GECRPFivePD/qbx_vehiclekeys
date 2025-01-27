@@ -40,8 +40,8 @@ return {
 
     -- Police Alert Settings
     alertCooldown = 10000,         -- Cooldown period in milliseconds (10 seconds)
-    policeAlertChance = 0.75,      -- Chance of alerting the police during the day
-    policeNightAlertChance = 0.50, -- Chance of alerting the police at night (times: 01-06)
+    policeAlertChance = 0.85,      -- Chance of alerting the police during the day
+    policeNightAlertChance = 0.70, -- Chance of alerting the police at night (times: 01-06)
     policeAlertNightStartHour = 1,
     policeAlertNightDuration = 5,
 
